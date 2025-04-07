@@ -6,4 +6,5 @@
 # 技術的なポイント
 
 - WebSocketのコネクションを貼ってサーバーからメッセージを受けたら電話をかけるようにした
+  - WebSocketのサーバー実装 [https://github.com/m-m-n/ws-push](https://github.com/m-m-n/ws-push)
 - アプリがフォアグラウンドにいないと失敗するのでスリープしないようにした
